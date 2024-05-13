@@ -19,12 +19,27 @@ stage ensures the integrity and reliability of our findings, enabling us to draw
 make informed decisions based on the data.
 AMAZON KPIs
 1. Total revenue =
+
+   
 ![image](https://github.com/Skokulwar12/Amazon-Sales-Analysis/assets/163553184/12022664-409f-44b3-ac25-34fa747ebd48)
 
+
+![image](https://github.com/Skokulwar12/Amazon-Sales-Analysis/assets/163553184/8760d06d-28f8-4623-ba57-260c7a99351e)
+
+
 3. Average order value =
-4. Total orders = 
-5. Average qty per order =
-6. Average Price Per Unit = 
+
+
+![image](https://github.com/Skokulwar12/Amazon-Sales-Analysis/assets/163553184/ca99bd0a-2c55-4bae-a28b-135cfce0b825)
+
+
+![image](https://github.com/Skokulwar12/Amazon-Sales-Analysis/assets/163553184/5f6e3e81-088f-4409-b376-2caf85624446)
+
+
+
+5. Total orders = 
+6. Average qty per order =
+7. Average Price Per Unit = 
 ANALYSIS QUESTIONS RESOLVEDDuring the analysis, the following key questions were addressed using SQL queries and data analysis 
 techniques: 
 1. Identify the Most Active and Most Idle Month.
