@@ -203,4 +203,4 @@ An Entity-Relationship Diagram (ERD) has been created to visualize the relations
 ![image](https://github.com/Skokulwar12/Amazon-Sales-Analysis/assets/163553184/52cfb7ef-be20-4904-80cf-ce144a314eb4)
 
 CONCLUSION –
-In conclusion, our project endeavours to offer meaningful insights into Amazon's sales patterns, customer inclinations, and various factors shaping e-commerce dynamics. B
+In conclusion, our project endeavours to offer meaningful insights into Amazon's sales patterns, customer inclinations, and various factors shaping e-commerce dynamics. By meticulously scrutinizing the dataset and delving into pivotal inquiries, our aim is to empower stakeholders with actionable intelligence, enabling them to make informed decisions and refine their sales strategies for optimal outcomes.
