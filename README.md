@@ -5,8 +5,11 @@
 
 
 # Amazon-Sales-Analysis
- SQL analysis of Amazon sales to unveil trends, preferences, and profitability insights to drive operational optimization and profitability.
+
+SQL analysis of Amazon sales to unveil trends, preferences, and profitability insights to drive operational optimization and profitability.
+ 
 INTRODUCTION
+
 Welcome to the Amazon Sales Analysis project! Here, we delve into Amazon's sales data to extract 
 insights and trends vital for optimizing sales strategies, understanding customer behaviour, and 
 improving business operations. Through advanced SQL techniques, we'll analyze data to uncover 
@@ -17,6 +20,7 @@ decision-making and sustained growth.
 
 
 DATASET OVERVIEW
+
 The dataset used in this project consists of Approximately 10,000 rows of data, representing Amazon 
 sales transactions. Along with the sales data, the dataset includes information about customers, 
 products, orders, returns and sellers. Before analysis, the dataset underwent preprocessing to handle 
