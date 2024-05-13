@@ -74,7 +74,9 @@ AMAZON KPIs
 
 
 
-ANALYSIS QUESTIONS RESOLVEDDuring the analysis, the following key questions were addressed using SQL queries and data analysis techniques: 
+ANALYSIS QUESTIONS RESOLVED 
+
+During the analysis, the following key questions were addressed using SQL queries and data analysis techniques: 
 
 1. Identify the Most Active and Most Idle Month.
 
